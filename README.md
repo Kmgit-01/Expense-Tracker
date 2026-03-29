@@ -50,10 +50,12 @@ The project utilizes a modular, Object-Oriented design to ensure maintainability
 
 Bash
 javac src/*.java -d bin
+
 Launch Application
 
 Bash
 java -cp bin Main
+
 🖥️ Operational Workflow
 Upon execution, the system initializes the local buffer and presents the primary control module:
 ______________________________________
