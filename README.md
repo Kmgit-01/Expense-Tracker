@@ -56,7 +56,7 @@ Bash
 java -cp bin Main
 🖥️ Operational Workflow
 Upon execution, the system initializes the local buffer and presents the primary control module:
-                ______________________________________
+______________________________________
                    EXPENSE TRACKER CONTROL PANEL
                 ______________________________________
                 1. Register New Transaction
